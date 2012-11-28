@@ -1,0 +1,970 @@
+INFO:root:INITIALIZING TRAINING STATE
+INFO:root:STARTING EPOCH #1
+INFO:root:Writing model to rundir\model-10dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:37.657000: 0:00:02.218750 user+sys, 0:00:00 real, 22187500.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-10dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:37.657000: 0:00:02.218750 user+sys, 0:00:00 real, 22187500.00% usage, 0.00 MB
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 10
+INFO:root:zengzengfeng 2012-11-28 14:15:37.657000: 0:00:02.218750 user+sys, 0:00:00 real, 22187500.00% usage, 0.00 MB
+INFO:root:Training step 10, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:37.735000: 0:00:02.296875 user+sys, 0:00:00 real, 22968750.00% usage, 0.00 MB
+INFO:root:Training step 10, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:37.798000: 0:00:02.359375 user+sys, 0:00:00 real, 23593750.00% usage, 0.00 MB
+INFO:root:Training step 10, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:37.860000: 0:00:02.421875 user+sys, 0:00:00 real, 24218750.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 10: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:37.860000: 0:00:02.421875 user+sys, 0:00:00 real, 24218750.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-20dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:37.985000: 0:00:02.546875 user+sys, 0:00:00 real, 25468750.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-20dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:37.985000: 0:00:02.546875 user+sys, 0:00:00 real, 25468750.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-10dnn.pkl...
+INFO:root:...removed rundir\model-10dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 20
+INFO:root:zengzengfeng 2012-11-28 14:15:38.001000: 0:00:02.546875 user+sys, 0:00:00 real, 25468750.00% usage, 0.00 MB
+INFO:root:Training step 20, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:38.079000: 0:00:02.625000 user+sys, 0:00:00 real, 26250000.00% usage, 0.00 MB
+INFO:root:Training step 20, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:38.141000: 0:00:02.687500 user+sys, 0:00:00 real, 26875000.00% usage, 0.00 MB
+INFO:root:Training step 20, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:38.204000: 0:00:02.750000 user+sys, 0:00:00 real, 27500000.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 20: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:38.204000: 0:00:02.750000 user+sys, 0:00:00 real, 27500000.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-30dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:38.329000: 0:00:02.875000 user+sys, 0:00:00 real, 28750000.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-30dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:38.329000: 0:00:02.875000 user+sys, 0:00:00 real, 28750000.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-20dnn.pkl...
+INFO:root:...removed rundir\model-20dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 30
+INFO:root:zengzengfeng 2012-11-28 14:15:38.329000: 0:00:02.875000 user+sys, 0:00:00 real, 28750000.00% usage, 0.00 MB
+INFO:root:Training step 30, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:38.407000: 0:00:02.953125 user+sys, 0:00:00 real, 29531250.00% usage, 0.00 MB
+INFO:root:Training step 30, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:38.470000: 0:00:03.015625 user+sys, 0:00:00 real, 30156250.00% usage, 0.00 MB
+INFO:root:Training step 30, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:38.548000: 0:00:03.093750 user+sys, 0:00:00 real, 30937500.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 30: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:38.548000: 0:00:03.093750 user+sys, 0:00:00 real, 30937500.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-40dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:38.657000: 0:00:03.203125 user+sys, 0:00:00 real, 32031250.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-40dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:38.657000: 0:00:03.203125 user+sys, 0:00:00 real, 32031250.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-30dnn.pkl...
+INFO:root:...removed rundir\model-30dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 40
+INFO:root:zengzengfeng 2012-11-28 14:15:38.673000: 0:00:03.218750 user+sys, 0:00:00 real, 32187500.00% usage, 0.00 MB
+INFO:root:Training step 40, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:38.735000: 0:00:03.281250 user+sys, 0:00:00 real, 32812500.00% usage, 0.00 MB
+INFO:root:Training step 40, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:38.813000: 0:00:03.359375 user+sys, 0:00:00 real, 33593750.00% usage, 0.00 MB
+INFO:root:Training step 40, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:38.876000: 0:00:03.421875 user+sys, 0:00:00 real, 34218750.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 40: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:38.876000: 0:00:03.421875 user+sys, 0:00:00 real, 34218750.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-50dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:38.985000: 0:00:03.531250 user+sys, 0:00:00 real, 35312500.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-50dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:39.001000: 0:00:03.546875 user+sys, 0:00:00 real, 35468750.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-40dnn.pkl...
+INFO:root:...removed rundir\model-40dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 50
+INFO:root:zengzengfeng 2012-11-28 14:15:39.016000: 0:00:03.546875 user+sys, 0:00:00 real, 35468750.00% usage, 0.00 MB
+INFO:root:Training step 50, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:39.095000: 0:00:03.625000 user+sys, 0:00:00 real, 36250000.00% usage, 0.00 MB
+INFO:root:Training step 50, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:39.157000: 0:00:03.687500 user+sys, 0:00:00 real, 36875000.00% usage, 0.00 MB
+INFO:root:Training step 50, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:39.235000: 0:00:03.765625 user+sys, 0:00:00 real, 37656250.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 50: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:39.235000: 0:00:03.765625 user+sys, 0:00:00 real, 37656250.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-60dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:39.345000: 0:00:03.875000 user+sys, 0:00:00 real, 38750000.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-60dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:39.345000: 0:00:03.875000 user+sys, 0:00:00 real, 38750000.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-50dnn.pkl...
+INFO:root:...removed rundir\model-50dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 60
+INFO:root:zengzengfeng 2012-11-28 14:15:39.345000: 0:00:03.875000 user+sys, 0:00:00 real, 38750000.00% usage, 0.00 MB
+INFO:root:Training step 60, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:39.423000: 0:00:03.953125 user+sys, 0:00:00 real, 39531250.00% usage, 0.00 MB
+INFO:root:Training step 60, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:39.485000: 0:00:04.015625 user+sys, 0:00:00 real, 40156250.00% usage, 0.00 MB
+INFO:root:Training step 60, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:39.548000: 0:00:04.078125 user+sys, 0:00:00 real, 40781250.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 60: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:39.548000: 0:00:04.078125 user+sys, 0:00:00 real, 40781250.00% usage, 0.00 MB
+INFO:root:STARTING EPOCH #2
+INFO:root:Writing model to rundir\model-70dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:39.673000: 0:00:04.203125 user+sys, 0:00:00 real, 42031250.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-70dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:39.673000: 0:00:04.203125 user+sys, 0:00:00 real, 42031250.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-60dnn.pkl...
+INFO:root:...removed rundir\model-60dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 70
+INFO:root:zengzengfeng 2012-11-28 14:15:39.673000: 0:00:04.203125 user+sys, 0:00:00 real, 42031250.00% usage, 0.00 MB
+INFO:root:Training step 70, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:39.751000: 0:00:04.281250 user+sys, 0:00:00 real, 42812500.00% usage, 0.00 MB
+INFO:root:Training step 70, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:39.813000: 0:00:04.343750 user+sys, 0:00:00 real, 43437500.00% usage, 0.00 MB
+INFO:root:Training step 70, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:39.876000: 0:00:04.406250 user+sys, 0:00:00 real, 44062500.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 70: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:39.876000: 0:00:04.406250 user+sys, 0:00:00 real, 44062500.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-80dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:39.985000: 0:00:04.515625 user+sys, 0:00:00 real, 45156250.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-80dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:40.001000: 0:00:04.531250 user+sys, 0:00:00 real, 45312500.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-70dnn.pkl...
+INFO:root:...removed rundir\model-70dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 80
+INFO:root:zengzengfeng 2012-11-28 14:15:40.001000: 0:00:04.531250 user+sys, 0:00:00 real, 45312500.00% usage, 0.00 MB
+INFO:root:Training step 80, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:40.079000: 0:00:04.625000 user+sys, 0:00:00 real, 46250000.00% usage, 0.00 MB
+INFO:root:Training step 80, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:40.141000: 0:00:04.687500 user+sys, 0:00:00 real, 46875000.00% usage, 0.00 MB
+INFO:root:Training step 80, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:40.220000: 0:00:04.765625 user+sys, 0:00:00 real, 47656250.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 80: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:40.220000: 0:00:04.765625 user+sys, 0:00:00 real, 47656250.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-90dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:40.329000: 0:00:04.875000 user+sys, 0:00:00 real, 48750000.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-90dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:40.329000: 0:00:04.875000 user+sys, 0:00:00 real, 48750000.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-80dnn.pkl...
+INFO:root:...removed rundir\model-80dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 90
+INFO:root:zengzengfeng 2012-11-28 14:15:40.329000: 0:00:04.875000 user+sys, 0:00:00 real, 48750000.00% usage, 0.00 MB
+INFO:root:Training step 90, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:40.391000: 0:00:04.937500 user+sys, 0:00:00 real, 49375000.00% usage, 0.00 MB
+INFO:root:Training step 90, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:40.470000: 0:00:05.015625 user+sys, 0:00:00 real, 50156250.00% usage, 0.00 MB
+INFO:root:Training step 90, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:40.532000: 0:00:05.078125 user+sys, 0:00:00 real, 50781250.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 90: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:40.532000: 0:00:05.078125 user+sys, 0:00:00 real, 50781250.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-100dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:40.641000: 0:00:05.187500 user+sys, 0:00:00 real, 51875000.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-100dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:40.641000: 0:00:05.187500 user+sys, 0:00:00 real, 51875000.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-90dnn.pkl...
+INFO:root:...removed rundir\model-90dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 100
+INFO:root:zengzengfeng 2012-11-28 14:15:40.641000: 0:00:05.187500 user+sys, 0:00:00 real, 51875000.00% usage, 0.00 MB
+INFO:root:Training step 100, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:40.720000: 0:00:05.265625 user+sys, 0:00:00 real, 52656250.00% usage, 0.00 MB
+INFO:root:Training step 100, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:40.782000: 0:00:05.328125 user+sys, 0:00:00 real, 53281250.00% usage, 0.00 MB
+INFO:root:Training step 100, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:40.845000: 0:00:05.390625 user+sys, 0:00:00 real, 53906250.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 100: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:40.845000: 0:00:05.390625 user+sys, 0:00:00 real, 53906250.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-110dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:40.954000: 0:00:05.500000 user+sys, 0:00:00 real, 55000000.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-110dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:40.954000: 0:00:05.500000 user+sys, 0:00:00 real, 55000000.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-100dnn.pkl...
+INFO:root:...removed rundir\model-100dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 110
+INFO:root:zengzengfeng 2012-11-28 14:15:40.970000: 0:00:05.515625 user+sys, 0:00:00 real, 55156250.00% usage, 0.00 MB
+INFO:root:Training step 110, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:41.032000: 0:00:05.578125 user+sys, 0:00:00 real, 55781250.00% usage, 0.00 MB
+INFO:root:Training step 110, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:41.095000: 0:00:05.640625 user+sys, 0:00:00 real, 56406250.00% usage, 0.00 MB
+INFO:root:Training step 110, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:41.173000: 0:00:05.718750 user+sys, 0:00:00 real, 57187500.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 110: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:41.173000: 0:00:05.718750 user+sys, 0:00:00 real, 57187500.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-120dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:41.282000: 0:00:05.812500 user+sys, 0:00:00 real, 58125000.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-120dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:41.298000: 0:00:05.828125 user+sys, 0:00:00 real, 58281250.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-110dnn.pkl...
+INFO:root:...removed rundir\model-110dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 120
+INFO:root:zengzengfeng 2012-11-28 14:15:41.298000: 0:00:05.828125 user+sys, 0:00:00 real, 58281250.00% usage, 0.00 MB
+INFO:root:Training step 120, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:41.360000: 0:00:05.890625 user+sys, 0:00:00 real, 58906250.00% usage, 0.00 MB
+INFO:root:Training step 120, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:41.438000: 0:00:05.968750 user+sys, 0:00:00 real, 59687500.00% usage, 0.00 MB
+INFO:root:Training step 120, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:41.516000: 0:00:06.046875 user+sys, 0:00:00 real, 60468750.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 120: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:41.516000: 0:00:06.046875 user+sys, 0:00:00 real, 60468750.00% usage, 0.00 MB
+INFO:root:STARTING EPOCH #3
+INFO:root:Writing model to rundir\model-130dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:41.626000: 0:00:06.156250 user+sys, 0:00:00 real, 61562500.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-130dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:41.626000: 0:00:06.156250 user+sys, 0:00:00 real, 61562500.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-120dnn.pkl...
+INFO:root:...removed rundir\model-120dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 130
+INFO:root:zengzengfeng 2012-11-28 14:15:41.641000: 0:00:06.171875 user+sys, 0:00:00 real, 61718750.00% usage, 0.00 MB
+INFO:root:Training step 130, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:41.720000: 0:00:06.234375 user+sys, 0:00:00 real, 62343750.00% usage, 0.00 MB
+INFO:root:Training step 130, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:41.782000: 0:00:06.296875 user+sys, 0:00:00 real, 62968750.00% usage, 0.00 MB
+INFO:root:Training step 130, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:41.860000: 0:00:06.375000 user+sys, 0:00:00 real, 63750000.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 130: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:41.860000: 0:00:06.375000 user+sys, 0:00:00 real, 63750000.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-140dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:41.985000: 0:00:06.500000 user+sys, 0:00:00 real, 65000000.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-140dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:41.985000: 0:00:06.500000 user+sys, 0:00:00 real, 65000000.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-130dnn.pkl...
+INFO:root:...removed rundir\model-130dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 140
+INFO:root:zengzengfeng 2012-11-28 14:15:41.985000: 0:00:06.500000 user+sys, 0:00:00 real, 65000000.00% usage, 0.00 MB
+INFO:root:Training step 140, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:42.063000: 0:00:06.578125 user+sys, 0:00:00 real, 65781250.00% usage, 0.00 MB
+INFO:root:Training step 140, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:42.141000: 0:00:06.656250 user+sys, 0:00:00 real, 66562500.00% usage, 0.00 MB
+INFO:root:Training step 140, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:42.204000: 0:00:06.718750 user+sys, 0:00:00 real, 67187500.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 140: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:42.204000: 0:00:06.718750 user+sys, 0:00:00 real, 67187500.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-150dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:42.313000: 0:00:06.828125 user+sys, 0:00:00 real, 68281250.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-150dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:42.313000: 0:00:06.828125 user+sys, 0:00:00 real, 68281250.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-140dnn.pkl...
+INFO:root:...removed rundir\model-140dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 150
+INFO:root:zengzengfeng 2012-11-28 14:15:42.313000: 0:00:06.828125 user+sys, 0:00:00 real, 68281250.00% usage, 0.00 MB
+INFO:root:Training step 150, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:42.391000: 0:00:06.906250 user+sys, 0:00:00 real, 69062500.00% usage, 0.00 MB
+INFO:root:Training step 150, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:42.454000: 0:00:06.968750 user+sys, 0:00:00 real, 69687500.00% usage, 0.00 MB
+INFO:root:Training step 150, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:42.516000: 0:00:07.031250 user+sys, 0:00:00 real, 70312500.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 150: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:42.516000: 0:00:07.031250 user+sys, 0:00:00 real, 70312500.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-160dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:42.626000: 0:00:07.140625 user+sys, 0:00:00 real, 71406250.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-160dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:42.626000: 0:00:07.140625 user+sys, 0:00:00 real, 71406250.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-150dnn.pkl...
+INFO:root:...removed rundir\model-150dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 160
+INFO:root:zengzengfeng 2012-11-28 14:15:42.641000: 0:00:07.156250 user+sys, 0:00:00 real, 71562500.00% usage, 0.00 MB
+INFO:root:Training step 160, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:42.704000: 0:00:07.218750 user+sys, 0:00:00 real, 72187500.00% usage, 0.00 MB
+INFO:root:Training step 160, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:42.798000: 0:00:07.312500 user+sys, 0:00:00 real, 73125000.00% usage, 0.00 MB
+INFO:root:Training step 160, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:42.876000: 0:00:07.390625 user+sys, 0:00:00 real, 73906250.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 160: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:42.876000: 0:00:07.390625 user+sys, 0:00:00 real, 73906250.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-170dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:42.985000: 0:00:07.500000 user+sys, 0:00:00 real, 75000000.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-170dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:42.985000: 0:00:07.500000 user+sys, 0:00:00 real, 75000000.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-160dnn.pkl...
+INFO:root:...removed rundir\model-160dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 170
+INFO:root:zengzengfeng 2012-11-28 14:15:42.985000: 0:00:07.500000 user+sys, 0:00:00 real, 75000000.00% usage, 0.00 MB
+INFO:root:Training step 170, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:43.063000: 0:00:07.578125 user+sys, 0:00:00 real, 75781250.00% usage, 0.00 MB
+INFO:root:Training step 170, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:43.126000: 0:00:07.640625 user+sys, 0:00:00 real, 76406250.00% usage, 0.00 MB
+INFO:root:Training step 170, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:43.188000: 0:00:07.703125 user+sys, 0:00:00 real, 77031250.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 170: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:43.188000: 0:00:07.703125 user+sys, 0:00:00 real, 77031250.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-180dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:43.298000: 0:00:07.812500 user+sys, 0:00:00 real, 78125000.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-180dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:43.298000: 0:00:07.812500 user+sys, 0:00:00 real, 78125000.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-170dnn.pkl...
+INFO:root:...removed rundir\model-170dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 180
+INFO:root:zengzengfeng 2012-11-28 14:15:43.313000: 0:00:07.828125 user+sys, 0:00:00 real, 78281250.00% usage, 0.00 MB
+INFO:root:Training step 180, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:43.376000: 0:00:07.890625 user+sys, 0:00:00 real, 78906250.00% usage, 0.00 MB
+INFO:root:Training step 180, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:43.438000: 0:00:07.953125 user+sys, 0:00:00 real, 79531250.00% usage, 0.00 MB
+INFO:root:Training step 180, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:43.501000: 0:00:08.015625 user+sys, 0:00:00 real, 80156250.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 180: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:43.501000: 0:00:08.015625 user+sys, 0:00:00 real, 80156250.00% usage, 0.00 MB
+INFO:root:STARTING EPOCH #4
+INFO:root:Writing model to rundir\model-190dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:43.610000: 0:00:08.125000 user+sys, 0:00:00 real, 81250000.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-190dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:43.626000: 0:00:08.140625 user+sys, 0:00:00 real, 81406250.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-180dnn.pkl...
+INFO:root:...removed rundir\model-180dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 190
+INFO:root:zengzengfeng 2012-11-28 14:15:43.626000: 0:00:08.140625 user+sys, 0:00:00 real, 81406250.00% usage, 0.00 MB
+INFO:root:Training step 190, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:43.688000: 0:00:08.203125 user+sys, 0:00:00 real, 82031250.00% usage, 0.00 MB
+INFO:root:Training step 190, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:43.751000: 0:00:08.265625 user+sys, 0:00:00 real, 82656250.00% usage, 0.00 MB
+INFO:root:Training step 190, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:43.813000: 0:00:08.328125 user+sys, 0:00:00 real, 83281250.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 190: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:43.813000: 0:00:08.328125 user+sys, 0:00:00 real, 83281250.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-200dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:43.923000: 0:00:08.437500 user+sys, 0:00:00 real, 84375000.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-200dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:43.938000: 0:00:08.453125 user+sys, 0:00:00 real, 84531250.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-190dnn.pkl...
+INFO:root:...removed rundir\model-190dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 200
+INFO:root:zengzengfeng 2012-11-28 14:15:43.938000: 0:00:08.453125 user+sys, 0:00:00 real, 84531250.00% usage, 0.00 MB
+INFO:root:Training step 200, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:44.016000: 0:00:08.515625 user+sys, 0:00:00 real, 85156250.00% usage, 0.00 MB
+INFO:root:Training step 200, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:44.079000: 0:00:08.578125 user+sys, 0:00:00 real, 85781250.00% usage, 0.00 MB
+INFO:root:Training step 200, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:44.141000: 0:00:08.640625 user+sys, 0:00:00 real, 86406250.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 200: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:44.141000: 0:00:08.640625 user+sys, 0:00:00 real, 86406250.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-210dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:44.266000: 0:00:08.765625 user+sys, 0:00:00 real, 87656250.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-210dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:44.266000: 0:00:08.765625 user+sys, 0:00:00 real, 87656250.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-200dnn.pkl...
+INFO:root:...removed rundir\model-200dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 210
+INFO:root:zengzengfeng 2012-11-28 14:15:44.266000: 0:00:08.765625 user+sys, 0:00:00 real, 87656250.00% usage, 0.00 MB
+INFO:root:Training step 210, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:44.329000: 0:00:08.828125 user+sys, 0:00:00 real, 88281250.00% usage, 0.00 MB
+INFO:root:Training step 210, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:44.392000: 0:00:08.890625 user+sys, 0:00:00 real, 88906250.00% usage, 0.00 MB
+INFO:root:Training step 210, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:44.454000: 0:00:08.953125 user+sys, 0:00:00 real, 89531250.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 210: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:44.454000: 0:00:08.953125 user+sys, 0:00:00 real, 89531250.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-220dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:44.563000: 0:00:09.062500 user+sys, 0:00:00 real, 90625000.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-220dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:44.579000: 0:00:09.078125 user+sys, 0:00:00 real, 90781250.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-210dnn.pkl...
+INFO:root:...removed rundir\model-210dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 220
+INFO:root:zengzengfeng 2012-11-28 14:15:44.579000: 0:00:09.078125 user+sys, 0:00:00 real, 90781250.00% usage, 0.00 MB
+INFO:root:Training step 220, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:44.642000: 0:00:09.140625 user+sys, 0:00:00 real, 91406250.00% usage, 0.00 MB
+INFO:root:Training step 220, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:44.704000: 0:00:09.203125 user+sys, 0:00:00 real, 92031250.00% usage, 0.00 MB
+INFO:root:Training step 220, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:44.782000: 0:00:09.281250 user+sys, 0:00:00 real, 92812500.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 220: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:44.782000: 0:00:09.281250 user+sys, 0:00:00 real, 92812500.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-230dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:44.892000: 0:00:09.390625 user+sys, 0:00:00 real, 93906250.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-230dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:44.892000: 0:00:09.390625 user+sys, 0:00:00 real, 93906250.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-220dnn.pkl...
+INFO:root:...removed rundir\model-220dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 230
+INFO:root:zengzengfeng 2012-11-28 14:15:44.892000: 0:00:09.390625 user+sys, 0:00:00 real, 93906250.00% usage, 0.00 MB
+INFO:root:Training step 230, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:44.954000: 0:00:09.453125 user+sys, 0:00:00 real, 94531250.00% usage, 0.00 MB
+INFO:root:Training step 230, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:45.032000: 0:00:09.531250 user+sys, 0:00:00 real, 95312500.00% usage, 0.00 MB
+INFO:root:Training step 230, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:45.095000: 0:00:09.593750 user+sys, 0:00:00 real, 95937500.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 230: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:45.095000: 0:00:09.593750 user+sys, 0:00:00 real, 95937500.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-240dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:45.204000: 0:00:09.703125 user+sys, 0:00:00 real, 97031250.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-240dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:45.204000: 0:00:09.703125 user+sys, 0:00:00 real, 97031250.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-230dnn.pkl...
+INFO:root:...removed rundir\model-230dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 240
+INFO:root:zengzengfeng 2012-11-28 14:15:45.220000: 0:00:09.718750 user+sys, 0:00:00 real, 97187500.00% usage, 0.00 MB
+INFO:root:Training step 240, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:45.282000: 0:00:09.781250 user+sys, 0:00:00 real, 97812500.00% usage, 0.00 MB
+INFO:root:Training step 240, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:45.345000: 0:00:09.843750 user+sys, 0:00:00 real, 98437500.00% usage, 0.00 MB
+INFO:root:Training step 240, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:45.407000: 0:00:09.906250 user+sys, 0:00:00 real, 99062500.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 240: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:45.407000: 0:00:09.906250 user+sys, 0:00:00 real, 99062500.00% usage, 0.00 MB
+INFO:root:STARTING EPOCH #5
+INFO:root:Writing model to rundir\model-250dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:45.548000: 0:00:10.046875 user+sys, 0:00:00 real, 100468750.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-250dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:45.548000: 0:00:10.046875 user+sys, 0:00:00 real, 100468750.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-240dnn.pkl...
+INFO:root:...removed rundir\model-240dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 250
+INFO:root:zengzengfeng 2012-11-28 14:15:45.548000: 0:00:10.046875 user+sys, 0:00:00 real, 100468750.00% usage, 0.00 MB
+INFO:root:Training step 250, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:45.626000: 0:00:10.125000 user+sys, 0:00:00 real, 101250000.00% usage, 0.00 MB
+INFO:root:Training step 250, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:45.688000: 0:00:10.187500 user+sys, 0:00:00 real, 101875000.00% usage, 0.00 MB
+INFO:root:Training step 250, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:45.751000: 0:00:10.250000 user+sys, 0:00:00 real, 102500000.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 250: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:45.751000: 0:00:10.250000 user+sys, 0:00:00 real, 102500000.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-260dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:45.860000: 0:00:10.359375 user+sys, 0:00:00 real, 103593750.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-260dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:45.876000: 0:00:10.375000 user+sys, 0:00:00 real, 103750000.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-250dnn.pkl...
+INFO:root:...removed rundir\model-250dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 260
+INFO:root:zengzengfeng 2012-11-28 14:15:45.876000: 0:00:10.375000 user+sys, 0:00:00 real, 103750000.00% usage, 0.00 MB
+INFO:root:Training step 260, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:45.938000: 0:00:10.437500 user+sys, 0:00:00 real, 104375000.00% usage, 0.00 MB
+INFO:root:Training step 260, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:46.017000: 0:00:10.515625 user+sys, 0:00:00 real, 105156250.00% usage, 0.00 MB
+INFO:root:Training step 260, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:46.079000: 0:00:10.578125 user+sys, 0:00:00 real, 105781250.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 260: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:46.079000: 0:00:10.578125 user+sys, 0:00:00 real, 105781250.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-270dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:46.188000: 0:00:10.687500 user+sys, 0:00:00 real, 106875000.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-270dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:46.188000: 0:00:10.687500 user+sys, 0:00:00 real, 106875000.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-260dnn.pkl...
+INFO:root:...removed rundir\model-260dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 270
+INFO:root:zengzengfeng 2012-11-28 14:15:46.188000: 0:00:10.687500 user+sys, 0:00:00 real, 106875000.00% usage, 0.00 MB
+INFO:root:Training step 270, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:46.251000: 0:00:10.750000 user+sys, 0:00:00 real, 107500000.00% usage, 0.00 MB
+INFO:root:Training step 270, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:46.329000: 0:00:10.828125 user+sys, 0:00:00 real, 108281250.00% usage, 0.00 MB
+INFO:root:Training step 270, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:46.392000: 0:00:10.890625 user+sys, 0:00:00 real, 108906250.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 270: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:46.392000: 0:00:10.890625 user+sys, 0:00:00 real, 108906250.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-280dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:46.501000: 0:00:11 user+sys, 0:00:00 real, 110000000.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-280dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:46.501000: 0:00:11 user+sys, 0:00:00 real, 110000000.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-270dnn.pkl...
+INFO:root:...removed rundir\model-270dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 280
+INFO:root:zengzengfeng 2012-11-28 14:15:46.501000: 0:00:11 user+sys, 0:00:00 real, 110000000.00% usage, 0.00 MB
+INFO:root:Training step 280, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:46.579000: 0:00:11.078125 user+sys, 0:00:00 real, 110781250.00% usage, 0.00 MB
+INFO:root:Training step 280, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:46.642000: 0:00:11.140625 user+sys, 0:00:00 real, 111406250.00% usage, 0.00 MB
+INFO:root:Training step 280, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:46.704000: 0:00:11.187500 user+sys, 0:00:00 real, 111875000.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 280: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:46.704000: 0:00:11.187500 user+sys, 0:00:00 real, 111875000.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-290dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:46.813000: 0:00:11.296875 user+sys, 0:00:00 real, 112968750.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-290dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:46.829000: 0:00:11.312500 user+sys, 0:00:00 real, 113125000.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-280dnn.pkl...
+INFO:root:...removed rundir\model-280dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 290
+INFO:root:zengzengfeng 2012-11-28 14:15:46.829000: 0:00:11.312500 user+sys, 0:00:00 real, 113125000.00% usage, 0.00 MB
+INFO:root:Training step 290, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:46.892000: 0:00:11.375000 user+sys, 0:00:00 real, 113750000.00% usage, 0.00 MB
+INFO:root:Training step 290, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:46.954000: 0:00:11.437500 user+sys, 0:00:00 real, 114375000.00% usage, 0.00 MB
+INFO:root:Training step 290, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:47.032000: 0:00:11.515625 user+sys, 0:00:00 real, 115156250.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 290: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:47.032000: 0:00:11.515625 user+sys, 0:00:00 real, 115156250.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-300dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:47.142000: 0:00:11.625000 user+sys, 0:00:00 real, 116250000.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-300dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:47.142000: 0:00:11.625000 user+sys, 0:00:00 real, 116250000.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-290dnn.pkl...
+INFO:root:...removed rundir\model-290dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 300
+INFO:root:zengzengfeng 2012-11-28 14:15:47.142000: 0:00:11.625000 user+sys, 0:00:00 real, 116250000.00% usage, 0.00 MB
+INFO:root:Training step 300, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:47.204000: 0:00:11.687500 user+sys, 0:00:00 real, 116875000.00% usage, 0.00 MB
+INFO:root:Training step 300, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:47.282000: 0:00:11.765625 user+sys, 0:00:00 real, 117656250.00% usage, 0.00 MB
+INFO:root:Training step 300, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:47.345000: 0:00:11.828125 user+sys, 0:00:00 real, 118281250.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 300: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:47.345000: 0:00:11.828125 user+sys, 0:00:00 real, 118281250.00% usage, 0.00 MB
+INFO:root:STARTING EPOCH #6
+INFO:root:Writing model to rundir\model-310dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:47.454000: 0:00:11.937500 user+sys, 0:00:00 real, 119375000.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-310dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:47.454000: 0:00:11.937500 user+sys, 0:00:00 real, 119375000.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-300dnn.pkl...
+INFO:root:...removed rundir\model-300dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 310
+INFO:root:zengzengfeng 2012-11-28 14:15:47.454000: 0:00:11.937500 user+sys, 0:00:00 real, 119375000.00% usage, 0.00 MB
+INFO:root:Training step 310, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:47.532000: 0:00:12.015625 user+sys, 0:00:00 real, 120156250.00% usage, 0.00 MB
+INFO:root:Training step 310, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:47.595000: 0:00:12.078125 user+sys, 0:00:00 real, 120781250.00% usage, 0.00 MB
+INFO:root:Training step 310, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:47.657000: 0:00:12.140625 user+sys, 0:00:00 real, 121406250.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 310: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:47.657000: 0:00:12.140625 user+sys, 0:00:00 real, 121406250.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-320dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:47.767000: 0:00:12.250000 user+sys, 0:00:00 real, 122500000.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-320dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:47.782000: 0:00:12.265625 user+sys, 0:00:00 real, 122656250.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-310dnn.pkl...
+INFO:root:...removed rundir\model-310dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 320
+INFO:root:zengzengfeng 2012-11-28 14:15:47.782000: 0:00:12.265625 user+sys, 0:00:00 real, 122656250.00% usage, 0.00 MB
+INFO:root:Training step 320, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:47.845000: 0:00:12.328125 user+sys, 0:00:00 real, 123281250.00% usage, 0.00 MB
+INFO:root:Training step 320, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:47.907000: 0:00:12.390625 user+sys, 0:00:00 real, 123906250.00% usage, 0.00 MB
+INFO:root:Training step 320, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:47.985000: 0:00:12.468750 user+sys, 0:00:00 real, 124687500.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 320: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:47.985000: 0:00:12.468750 user+sys, 0:00:00 real, 124687500.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-330dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:48.095000: 0:00:12.578125 user+sys, 0:00:00 real, 125781250.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-330dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:48.095000: 0:00:12.578125 user+sys, 0:00:00 real, 125781250.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-320dnn.pkl...
+INFO:root:...removed rundir\model-320dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 330
+INFO:root:zengzengfeng 2012-11-28 14:15:48.095000: 0:00:12.578125 user+sys, 0:00:00 real, 125781250.00% usage, 0.00 MB
+INFO:root:Training step 330, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:48.157000: 0:00:12.640625 user+sys, 0:00:00 real, 126406250.00% usage, 0.00 MB
+INFO:root:Training step 330, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:48.235000: 0:00:12.718750 user+sys, 0:00:00 real, 127187500.00% usage, 0.00 MB
+INFO:root:Training step 330, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:48.298000: 0:00:12.781250 user+sys, 0:00:00 real, 127812500.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 330: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:48.298000: 0:00:12.781250 user+sys, 0:00:00 real, 127812500.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-340dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:48.407000: 0:00:12.890625 user+sys, 0:00:00 real, 128906250.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-340dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:48.407000: 0:00:12.890625 user+sys, 0:00:00 real, 128906250.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-330dnn.pkl...
+INFO:root:...removed rundir\model-330dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 340
+INFO:root:zengzengfeng 2012-11-28 14:15:48.407000: 0:00:12.890625 user+sys, 0:00:00 real, 128906250.00% usage, 0.00 MB
+INFO:root:Training step 340, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:48.485000: 0:00:12.968750 user+sys, 0:00:00 real, 129687500.00% usage, 0.00 MB
+INFO:root:Training step 340, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:48.548000: 0:00:13.031250 user+sys, 0:00:00 real, 130312500.00% usage, 0.00 MB
+INFO:root:Training step 340, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:48.610000: 0:00:13.093750 user+sys, 0:00:00 real, 130937500.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 340: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:48.610000: 0:00:13.093750 user+sys, 0:00:00 real, 130937500.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-350dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:48.720000: 0:00:13.203125 user+sys, 0:00:00 real, 132031250.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-350dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:48.720000: 0:00:13.203125 user+sys, 0:00:00 real, 132031250.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-340dnn.pkl...
+INFO:root:...removed rundir\model-340dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 350
+INFO:root:zengzengfeng 2012-11-28 14:15:48.735000: 0:00:13.218750 user+sys, 0:00:00 real, 132187500.00% usage, 0.00 MB
+INFO:root:Training step 350, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:48.798000: 0:00:13.281250 user+sys, 0:00:00 real, 132812500.00% usage, 0.00 MB
+INFO:root:Training step 350, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:48.860000: 0:00:13.343750 user+sys, 0:00:00 real, 133437500.00% usage, 0.00 MB
+INFO:root:Training step 350, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:48.923000: 0:00:13.406250 user+sys, 0:00:00 real, 134062500.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 350: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:48.923000: 0:00:13.406250 user+sys, 0:00:00 real, 134062500.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-360dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:49.048000: 0:00:13.531250 user+sys, 0:00:00 real, 135312500.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-360dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:49.048000: 0:00:13.531250 user+sys, 0:00:00 real, 135312500.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-350dnn.pkl...
+INFO:root:...removed rundir\model-350dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 360
+INFO:root:zengzengfeng 2012-11-28 14:15:49.048000: 0:00:13.531250 user+sys, 0:00:00 real, 135312500.00% usage, 0.00 MB
+INFO:root:Training step 360, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:49.110000: 0:00:13.593750 user+sys, 0:00:00 real, 135937500.00% usage, 0.00 MB
+INFO:root:Training step 360, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:49.188000: 0:00:13.671875 user+sys, 0:00:00 real, 136718750.00% usage, 0.00 MB
+INFO:root:Training step 360, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:49.251000: 0:00:13.734375 user+sys, 0:00:00 real, 137343750.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 360: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:49.251000: 0:00:13.734375 user+sys, 0:00:00 real, 137343750.00% usage, 0.00 MB
+INFO:root:STARTING EPOCH #7
+INFO:root:Writing model to rundir\model-370dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:49.360000: 0:00:13.843750 user+sys, 0:00:00 real, 138437500.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-370dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:49.376000: 0:00:13.843750 user+sys, 0:00:00 real, 138437500.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-360dnn.pkl...
+INFO:root:...removed rundir\model-360dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 370
+INFO:root:zengzengfeng 2012-11-28 14:15:49.376000: 0:00:13.843750 user+sys, 0:00:00 real, 138437500.00% usage, 0.00 MB
+INFO:root:Training step 370, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:49.454000: 0:00:13.921875 user+sys, 0:00:00 real, 139218750.00% usage, 0.00 MB
+INFO:root:Training step 370, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:49.517000: 0:00:13.984375 user+sys, 0:00:00 real, 139843750.00% usage, 0.00 MB
+INFO:root:Training step 370, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:49.579000: 0:00:14.046875 user+sys, 0:00:00 real, 140468750.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 370: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:49.579000: 0:00:14.046875 user+sys, 0:00:00 real, 140468750.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-380dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:49.688000: 0:00:14.156250 user+sys, 0:00:00 real, 141562500.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-380dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:49.688000: 0:00:14.156250 user+sys, 0:00:00 real, 141562500.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-370dnn.pkl...
+INFO:root:...removed rundir\model-370dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 380
+INFO:root:zengzengfeng 2012-11-28 14:15:49.704000: 0:00:14.171875 user+sys, 0:00:00 real, 141718750.00% usage, 0.00 MB
+INFO:root:Training step 380, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:49.767000: 0:00:14.234375 user+sys, 0:00:00 real, 142343750.00% usage, 0.00 MB
+INFO:root:Training step 380, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:49.829000: 0:00:14.296875 user+sys, 0:00:00 real, 142968750.00% usage, 0.00 MB
+INFO:root:Training step 380, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:49.907000: 0:00:14.375000 user+sys, 0:00:00 real, 143750000.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 380: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:49.907000: 0:00:14.375000 user+sys, 0:00:00 real, 143750000.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-390dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:50.017000: 0:00:14.484375 user+sys, 0:00:00 real, 144843750.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-390dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:50.017000: 0:00:14.484375 user+sys, 0:00:00 real, 144843750.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-380dnn.pkl...
+INFO:root:...removed rundir\model-380dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 390
+INFO:root:zengzengfeng 2012-11-28 14:15:50.017000: 0:00:14.484375 user+sys, 0:00:00 real, 144843750.00% usage, 0.00 MB
+INFO:root:Training step 390, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:50.079000: 0:00:14.546875 user+sys, 0:00:00 real, 145468750.00% usage, 0.00 MB
+INFO:root:Training step 390, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:50.157000: 0:00:14.625000 user+sys, 0:00:00 real, 146250000.00% usage, 0.00 MB
+INFO:root:Training step 390, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:50.220000: 0:00:14.687500 user+sys, 0:00:00 real, 146875000.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 390: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:50.220000: 0:00:14.687500 user+sys, 0:00:00 real, 146875000.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-400dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:50.329000: 0:00:14.796875 user+sys, 0:00:00 real, 147968750.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-400dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:50.329000: 0:00:14.796875 user+sys, 0:00:00 real, 147968750.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-390dnn.pkl...
+INFO:root:...removed rundir\model-390dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 400
+INFO:root:zengzengfeng 2012-11-28 14:15:50.329000: 0:00:14.796875 user+sys, 0:00:00 real, 147968750.00% usage, 0.00 MB
+INFO:root:Training step 400, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:50.407000: 0:00:14.875000 user+sys, 0:00:00 real, 148750000.00% usage, 0.00 MB
+INFO:root:Training step 400, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:50.470000: 0:00:14.937500 user+sys, 0:00:00 real, 149375000.00% usage, 0.00 MB
+INFO:root:Training step 400, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:50.532000: 0:00:15 user+sys, 0:00:00 real, 150000000.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 400: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:50.532000: 0:00:15 user+sys, 0:00:00 real, 150000000.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-410dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:50.642000: 0:00:15.109375 user+sys, 0:00:00 real, 151093750.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-410dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:50.642000: 0:00:15.109375 user+sys, 0:00:00 real, 151093750.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-400dnn.pkl...
+INFO:root:...removed rundir\model-400dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 410
+INFO:root:zengzengfeng 2012-11-28 14:15:50.657000: 0:00:15.125000 user+sys, 0:00:00 real, 151250000.00% usage, 0.00 MB
+INFO:root:Training step 410, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:50.720000: 0:00:15.187500 user+sys, 0:00:00 real, 151875000.00% usage, 0.00 MB
+INFO:root:Training step 410, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:50.782000: 0:00:15.250000 user+sys, 0:00:00 real, 152500000.00% usage, 0.00 MB
+INFO:root:Training step 410, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:50.860000: 0:00:15.328125 user+sys, 0:00:00 real, 153281250.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 410: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:50.860000: 0:00:15.328125 user+sys, 0:00:00 real, 153281250.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-420dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:50.970000: 0:00:15.437500 user+sys, 0:00:00 real, 154375000.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-420dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:50.970000: 0:00:15.437500 user+sys, 0:00:00 real, 154375000.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-410dnn.pkl...
+INFO:root:...removed rundir\model-410dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 420
+INFO:root:zengzengfeng 2012-11-28 14:15:50.970000: 0:00:15.437500 user+sys, 0:00:00 real, 154375000.00% usage, 0.00 MB
+INFO:root:Training step 420, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:51.048000: 0:00:15.515625 user+sys, 0:00:00 real, 155156250.00% usage, 0.00 MB
+INFO:root:Training step 420, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:51.110000: 0:00:15.578125 user+sys, 0:00:00 real, 155781250.00% usage, 0.00 MB
+INFO:root:Training step 420, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:51.173000: 0:00:15.640625 user+sys, 0:00:00 real, 156406250.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 420: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:51.173000: 0:00:15.640625 user+sys, 0:00:00 real, 156406250.00% usage, 0.00 MB
+INFO:root:STARTING EPOCH #8
+INFO:root:Writing model to rundir\model-430dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:51.282000: 0:00:15.750000 user+sys, 0:00:00 real, 157500000.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-430dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:51.282000: 0:00:15.750000 user+sys, 0:00:00 real, 157500000.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-420dnn.pkl...
+INFO:root:...removed rundir\model-420dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 430
+INFO:root:zengzengfeng 2012-11-28 14:15:51.298000: 0:00:15.765625 user+sys, 0:00:00 real, 157656250.00% usage, 0.00 MB
+INFO:root:Training step 430, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:51.360000: 0:00:15.828125 user+sys, 0:00:00 real, 158281250.00% usage, 0.00 MB
+INFO:root:Training step 430, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:51.423000: 0:00:15.890625 user+sys, 0:00:00 real, 158906250.00% usage, 0.00 MB
+INFO:root:Training step 430, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:51.485000: 0:00:15.953125 user+sys, 0:00:00 real, 159531250.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 430: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:51.485000: 0:00:15.953125 user+sys, 0:00:00 real, 159531250.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-440dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:51.595000: 0:00:16.062500 user+sys, 0:00:00 real, 160625000.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-440dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:51.610000: 0:00:16.078125 user+sys, 0:00:00 real, 160781250.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-430dnn.pkl...
+INFO:root:...removed rundir\model-430dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 440
+INFO:root:zengzengfeng 2012-11-28 14:15:51.610000: 0:00:16.078125 user+sys, 0:00:00 real, 160781250.00% usage, 0.00 MB
+INFO:root:Training step 440, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:51.673000: 0:00:16.140625 user+sys, 0:00:00 real, 161406250.00% usage, 0.00 MB
+INFO:root:Training step 440, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:51.735000: 0:00:16.203125 user+sys, 0:00:00 real, 162031250.00% usage, 0.00 MB
+INFO:root:Training step 440, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:51.813000: 0:00:16.281250 user+sys, 0:00:00 real, 162812500.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 440: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:51.813000: 0:00:16.281250 user+sys, 0:00:00 real, 162812500.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-450dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:51.923000: 0:00:16.390625 user+sys, 0:00:00 real, 163906250.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-450dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:51.923000: 0:00:16.390625 user+sys, 0:00:00 real, 163906250.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-440dnn.pkl...
+INFO:root:...removed rundir\model-440dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 450
+INFO:root:zengzengfeng 2012-11-28 14:15:51.923000: 0:00:16.390625 user+sys, 0:00:00 real, 163906250.00% usage, 0.00 MB
+INFO:root:Training step 450, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:51.985000: 0:00:16.453125 user+sys, 0:00:00 real, 164531250.00% usage, 0.00 MB
+INFO:root:Training step 450, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:52.063000: 0:00:16.531250 user+sys, 0:00:00 real, 165312500.00% usage, 0.00 MB
+INFO:root:Training step 450, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:52.126000: 0:00:16.593750 user+sys, 0:00:00 real, 165937500.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 450: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:52.126000: 0:00:16.593750 user+sys, 0:00:00 real, 165937500.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-460dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:52.235000: 0:00:16.703125 user+sys, 0:00:00 real, 167031250.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-460dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:52.235000: 0:00:16.703125 user+sys, 0:00:00 real, 167031250.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-450dnn.pkl...
+INFO:root:...removed rundir\model-450dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 460
+INFO:root:zengzengfeng 2012-11-28 14:15:52.251000: 0:00:16.718750 user+sys, 0:00:00 real, 167187500.00% usage, 0.00 MB
+INFO:root:Training step 460, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:52.313000: 0:00:16.781250 user+sys, 0:00:00 real, 167812500.00% usage, 0.00 MB
+INFO:root:Training step 460, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:52.376000: 0:00:16.843750 user+sys, 0:00:00 real, 168437500.00% usage, 0.00 MB
+INFO:root:Training step 460, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:52.438000: 0:00:16.906250 user+sys, 0:00:00 real, 169062500.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 460: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:52.438000: 0:00:16.906250 user+sys, 0:00:00 real, 169062500.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-470dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:52.548000: 0:00:17.015625 user+sys, 0:00:00 real, 170156250.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-470dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:52.548000: 0:00:17.015625 user+sys, 0:00:00 real, 170156250.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-460dnn.pkl...
+INFO:root:...removed rundir\model-460dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 470
+INFO:root:zengzengfeng 2012-11-28 14:15:52.563000: 0:00:17.031250 user+sys, 0:00:00 real, 170312500.00% usage, 0.00 MB
+INFO:root:Training step 470, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:52.626000: 0:00:17.093750 user+sys, 0:00:00 real, 170937500.00% usage, 0.00 MB
+INFO:root:Training step 470, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:52.688000: 0:00:17.156250 user+sys, 0:00:00 real, 171562500.00% usage, 0.00 MB
+INFO:root:Training step 470, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:52.751000: 0:00:17.218750 user+sys, 0:00:00 real, 172187500.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 470: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:52.751000: 0:00:17.218750 user+sys, 0:00:00 real, 172187500.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-480dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:52.860000: 0:00:17.328125 user+sys, 0:00:00 real, 173281250.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-480dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:52.860000: 0:00:17.328125 user+sys, 0:00:00 real, 173281250.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-470dnn.pkl...
+INFO:root:...removed rundir\model-470dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 480
+INFO:root:zengzengfeng 2012-11-28 14:15:52.876000: 0:00:17.343750 user+sys, 0:00:00 real, 173437500.00% usage, 0.00 MB
+INFO:root:Training step 480, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:52.938000: 0:00:17.406250 user+sys, 0:00:00 real, 174062500.00% usage, 0.00 MB
+INFO:root:Training step 480, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:53.017000: 0:00:17.484375 user+sys, 0:00:00 real, 174843750.00% usage, 0.00 MB
+INFO:root:Training step 480, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:53.079000: 0:00:17.546875 user+sys, 0:00:00 real, 175468750.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 480: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:53.079000: 0:00:17.546875 user+sys, 0:00:00 real, 175468750.00% usage, 0.00 MB
+INFO:root:STARTING EPOCH #9
+INFO:root:Writing model to rundir\model-490dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:53.188000: 0:00:17.656250 user+sys, 0:00:00 real, 176562500.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-490dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:53.188000: 0:00:17.656250 user+sys, 0:00:00 real, 176562500.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-480dnn.pkl...
+INFO:root:...removed rundir\model-480dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 490
+INFO:root:zengzengfeng 2012-11-28 14:15:53.204000: 0:00:17.671875 user+sys, 0:00:00 real, 176718750.00% usage, 0.00 MB
+INFO:root:Training step 490, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:53.267000: 0:00:17.734375 user+sys, 0:00:00 real, 177343750.00% usage, 0.00 MB
+INFO:root:Training step 490, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:53.329000: 0:00:17.796875 user+sys, 0:00:00 real, 177968750.00% usage, 0.00 MB
+INFO:root:Training step 490, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:53.392000: 0:00:17.859375 user+sys, 0:00:00 real, 178593750.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 490: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:53.392000: 0:00:17.859375 user+sys, 0:00:00 real, 178593750.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-500dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:53.501000: 0:00:17.968750 user+sys, 0:00:00 real, 179687500.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-500dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:53.517000: 0:00:17.984375 user+sys, 0:00:00 real, 179843750.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-490dnn.pkl...
+INFO:root:...removed rundir\model-490dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 500
+INFO:root:zengzengfeng 2012-11-28 14:15:53.517000: 0:00:17.984375 user+sys, 0:00:00 real, 179843750.00% usage, 0.00 MB
+INFO:root:Training step 500, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:53.579000: 0:00:18.046875 user+sys, 0:00:00 real, 180468750.00% usage, 0.00 MB
+INFO:root:Training step 500, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:53.642000: 0:00:18.109375 user+sys, 0:00:00 real, 181093750.00% usage, 0.00 MB
+INFO:root:Training step 500, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:53.720000: 0:00:18.187500 user+sys, 0:00:00 real, 181875000.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 500: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:53.720000: 0:00:18.187500 user+sys, 0:00:00 real, 181875000.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-510dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:53.829000: 0:00:18.296875 user+sys, 0:00:00 real, 182968750.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-510dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:53.829000: 0:00:18.296875 user+sys, 0:00:00 real, 182968750.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-500dnn.pkl...
+INFO:root:...removed rundir\model-500dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 510
+INFO:root:zengzengfeng 2012-11-28 14:15:53.829000: 0:00:18.296875 user+sys, 0:00:00 real, 182968750.00% usage, 0.00 MB
+INFO:root:Training step 510, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:53.892000: 0:00:18.359375 user+sys, 0:00:00 real, 183593750.00% usage, 0.00 MB
+INFO:root:Training step 510, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:53.970000: 0:00:18.437500 user+sys, 0:00:00 real, 184375000.00% usage, 0.00 MB
+INFO:root:Training step 510, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:54.032000: 0:00:18.500000 user+sys, 0:00:00 real, 185000000.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 510: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:54.032000: 0:00:18.500000 user+sys, 0:00:00 real, 185000000.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-520dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:54.142000: 0:00:18.609375 user+sys, 0:00:00 real, 186093750.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-520dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:54.157000: 0:00:18.625000 user+sys, 0:00:00 real, 186250000.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-510dnn.pkl...
+INFO:root:...removed rundir\model-510dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 520
+INFO:root:zengzengfeng 2012-11-28 14:15:54.157000: 0:00:18.625000 user+sys, 0:00:00 real, 186250000.00% usage, 0.00 MB
+INFO:root:Training step 520, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:54.220000: 0:00:18.687500 user+sys, 0:00:00 real, 186875000.00% usage, 0.00 MB
+INFO:root:Training step 520, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:54.282000: 0:00:18.750000 user+sys, 0:00:00 real, 187500000.00% usage, 0.00 MB
+INFO:root:Training step 520, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:54.345000: 0:00:18.812500 user+sys, 0:00:00 real, 188125000.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 520: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:54.345000: 0:00:18.812500 user+sys, 0:00:00 real, 188125000.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-530dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:54.454000: 0:00:18.921875 user+sys, 0:00:00 real, 189218750.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-530dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:54.470000: 0:00:18.937500 user+sys, 0:00:00 real, 189375000.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-520dnn.pkl...
+INFO:root:...removed rundir\model-520dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 530
+INFO:root:zengzengfeng 2012-11-28 14:15:54.470000: 0:00:18.937500 user+sys, 0:00:00 real, 189375000.00% usage, 0.00 MB
+INFO:root:Training step 530, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:54.532000: 0:00:19 user+sys, 0:00:00 real, 190000000.00% usage, 0.00 MB
+INFO:root:Training step 530, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:54.610000: 0:00:19.078125 user+sys, 0:00:00 real, 190781250.00% usage, 0.00 MB
+INFO:root:Training step 530, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:54.673000: 0:00:19.140625 user+sys, 0:00:00 real, 191406250.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 530: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:54.673000: 0:00:19.140625 user+sys, 0:00:00 real, 191406250.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-540dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:54.782000: 0:00:19.250000 user+sys, 0:00:00 real, 192500000.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-540dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:54.782000: 0:00:19.250000 user+sys, 0:00:00 real, 192500000.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-530dnn.pkl...
+INFO:root:...removed rundir\model-530dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 540
+INFO:root:zengzengfeng 2012-11-28 14:15:54.782000: 0:00:19.250000 user+sys, 0:00:00 real, 192500000.00% usage, 0.00 MB
+INFO:root:Training step 540, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:54.845000: 0:00:19.312500 user+sys, 0:00:00 real, 193125000.00% usage, 0.00 MB
+INFO:root:Training step 540, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:54.923000: 0:00:19.390625 user+sys, 0:00:00 real, 193906250.00% usage, 0.00 MB
+INFO:root:Training step 540, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:54.985000: 0:00:19.453125 user+sys, 0:00:00 real, 194531250.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 540: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:54.985000: 0:00:19.453125 user+sys, 0:00:00 real, 194531250.00% usage, 0.00 MB
+INFO:root:STARTING EPOCH #10
+INFO:root:Writing model to rundir\model-550dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:55.095000: 0:00:19.562500 user+sys, 0:00:00 real, 195625000.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-550dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:55.110000: 0:00:19.578125 user+sys, 0:00:00 real, 195781250.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-540dnn.pkl...
+INFO:root:...removed rundir\model-540dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 550
+INFO:root:zengzengfeng 2012-11-28 14:15:55.110000: 0:00:19.578125 user+sys, 0:00:00 real, 195781250.00% usage, 0.00 MB
+INFO:root:Training step 550, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:55.173000: 0:00:19.640625 user+sys, 0:00:00 real, 196406250.00% usage, 0.00 MB
+INFO:root:Training step 550, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:55.235000: 0:00:19.703125 user+sys, 0:00:00 real, 197031250.00% usage, 0.00 MB
+INFO:root:Training step 550, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:55.298000: 0:00:19.765625 user+sys, 0:00:00 real, 197656250.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 550: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:55.298000: 0:00:19.765625 user+sys, 0:00:00 real, 197656250.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-560dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:55.407000: 0:00:19.875000 user+sys, 0:00:00 real, 198750000.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-560dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:55.423000: 0:00:19.890625 user+sys, 0:00:00 real, 198906250.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-550dnn.pkl...
+INFO:root:...removed rundir\model-550dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 560
+INFO:root:zengzengfeng 2012-11-28 14:15:55.423000: 0:00:19.890625 user+sys, 0:00:00 real, 198906250.00% usage, 0.00 MB
+INFO:root:Training step 560, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:55.485000: 0:00:19.953125 user+sys, 0:00:00 real, 199531250.00% usage, 0.00 MB
+INFO:root:Training step 560, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:55.548000: 0:00:20.015625 user+sys, 0:00:00 real, 200156250.00% usage, 0.00 MB
+INFO:root:Training step 560, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:55.610000: 0:00:20.078125 user+sys, 0:00:00 real, 200781250.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 560: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:55.626000: 0:00:20.093750 user+sys, 0:00:00 real, 200937500.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-570dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:55.735000: 0:00:20.203125 user+sys, 0:00:00 real, 202031250.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-570dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:55.735000: 0:00:20.203125 user+sys, 0:00:00 real, 202031250.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-560dnn.pkl...
+INFO:root:...removed rundir\model-560dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 570
+INFO:root:zengzengfeng 2012-11-28 14:15:55.735000: 0:00:20.203125 user+sys, 0:00:00 real, 202031250.00% usage, 0.00 MB
+INFO:root:Training step 570, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:55.798000: 0:00:20.265625 user+sys, 0:00:00 real, 202656250.00% usage, 0.00 MB
+INFO:root:Training step 570, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:55.876000: 0:00:20.343750 user+sys, 0:00:00 real, 203437500.00% usage, 0.00 MB
+INFO:root:Training step 570, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:55.939000: 0:00:20.406250 user+sys, 0:00:00 real, 204062500.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 570: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:55.939000: 0:00:20.406250 user+sys, 0:00:00 real, 204062500.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-580dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:56.048000: 0:00:20.515625 user+sys, 0:00:00 real, 205156250.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-580dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:56.048000: 0:00:20.515625 user+sys, 0:00:00 real, 205156250.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-570dnn.pkl...
+INFO:root:...removed rundir\model-570dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 580
+INFO:root:zengzengfeng 2012-11-28 14:15:56.064000: 0:00:20.531250 user+sys, 0:00:00 real, 205312500.00% usage, 0.00 MB
+INFO:root:Training step 580, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:56.126000: 0:00:20.593750 user+sys, 0:00:00 real, 205937500.00% usage, 0.00 MB
+INFO:root:Training step 580, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:56.189000: 0:00:20.656250 user+sys, 0:00:00 real, 206562500.00% usage, 0.00 MB
+INFO:root:Training step 580, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:56.251000: 0:00:20.718750 user+sys, 0:00:00 real, 207187500.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 580: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:56.251000: 0:00:20.718750 user+sys, 0:00:00 real, 207187500.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-590dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:56.360000: 0:00:20.828125 user+sys, 0:00:00 real, 208281250.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-590dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:56.360000: 0:00:20.828125 user+sys, 0:00:00 real, 208281250.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-580dnn.pkl...
+INFO:root:...removed rundir\model-580dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 590
+INFO:root:zengzengfeng 2012-11-28 14:15:56.376000: 0:00:20.843750 user+sys, 0:00:00 real, 208437500.00% usage, 0.00 MB
+INFO:root:Training step 590, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:56.439000: 0:00:20.906250 user+sys, 0:00:00 real, 209062500.00% usage, 0.00 MB
+INFO:root:Training step 590, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:56.501000: 0:00:20.968750 user+sys, 0:00:00 real, 209687500.00% usage, 0.00 MB
+INFO:root:Training step 590, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:56.564000: 0:00:21.031250 user+sys, 0:00:00 real, 210312500.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 590: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:56.564000: 0:00:21.031250 user+sys, 0:00:00 real, 210312500.00% usage, 0.00 MB
+INFO:root:Writing model to rundir\model-600dnn.pkl...
+INFO:root:zengzengfeng 2012-11-28 14:15:56.673000: 0:00:21.140625 user+sys, 0:00:00 real, 211406250.00% usage, 0.00 MB
+INFO:root:...done writing model to rundir\model-600dnn.pkl
+INFO:root:zengzengfeng 2012-11-28 14:15:56.673000: 0:00:21.140625 user+sys, 0:00:00 real, 211406250.00% usage, 0.00 MB
+INFO:root:Removing old model rundir\model-590dnn.pkl...
+INFO:root:...removed rundir\model-590dnn.pkl
+INFO:root:BEGINNING VALIDATION AT TRAINING STEP 600
+INFO:root:zengzengfeng 2012-11-28 14:15:56.689000: 0:00:21.140625 user+sys, 0:00:00 real, 211406250.00% usage, 0.00 MB
+INFO:root:Training step 600, validating example 10, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:56.751000: 0:00:21.203125 user+sys, 0:00:00 real, 212031250.00% usage, 0.00 MB
+INFO:root:Training step 600, validating example 20, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:56.814000: 0:00:21.265625 user+sys, 0:00:00 real, 212656250.00% usage, 0.00 MB
+INFO:root:Training step 600, validating example 30, mean(logrank) = 1.10, stddev(logrank) = 0.00
+INFO:root:zengzengfeng 2012-11-28 14:15:56.876000: 0:00:21.328125 user+sys, 0:00:00 real, 213281250.00% usage, 0.00 MB
+INFO:root:FINAL VALIDATION AT TRAINING STEP 600: mean(logrank) = 1.10, stddev(logrank) = 0.00, cnt = 30
+INFO:root:zengzengfeng 2012-11-28 14:15:56.876000: 0:00:21.328125 user+sys, 0:00:00 real, 213281250.00% usage, 0.00 MB
+INFO:root:STARTING EPOCH #11
